@@ -1,0 +1,22 @@
+# FingerHealthScan
+
+AI-assisted finger health screening application.
+
+## Features
+
+- Finger camera scanning
+- Heart rate measurement
+- Pulse waveform
+- HRV estimation
+- Respiratory rate estimation
+- Scan quality analysis
+- Health results dashboard
+
+## Important
+
+This application is a screening/research tool and does not replace
+professional medical testing or diagnosis.
+
+Blood parameters such as RBC, WBC, platelets, cholesterol and glucose
+require appropriate medical testing equipment and are not directly
+measured by a normal smartphone camera.
